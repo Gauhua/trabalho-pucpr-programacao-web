@@ -1,4 +1,5 @@
 Projeto de programação web para PUCPR
+
 Orientação:
 1. Definição de uma área de negócio, ou domínio de aplicação, que será tratada nesta aplicação. Com o domínio de aplicação, é possível entender quais dados precisam ser mantidos no BD. Exemplo: comércio eletrônico, academia esportiva, rede social etc.
 
